@@ -1,0 +1,12 @@
+Copyright © 2024 Rajdeep Chatterjee
+
+All rights reserved.
+
+This file and the associated code are protected by copyright laws and international treaties. Unauthorized copying, reproduction, distribution, or modification of this file or any part of the associated code is prohibited without prior written permission from the copyright holder.
+
+For permissions or inquiries, please contact:
+Rajdeep Chatterjee
+Email: [rc9775295@gmail.com]
+Website: [your-website-url]
+
+Disclaimer: This software is provided "as-is" without warranty of any kind. The author shall not be liable for any damages arising from the use of this software.
